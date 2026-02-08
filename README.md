@@ -1,5 +1,7 @@
 📊 Performance Financeira – E-commerce
+
 Análise Comparativa de Vendas e Lucro (2023–2024)
+
 📌 Sobre o Projeto
 
 Este projeto consiste na construção de um dashboard analítico no Power BI com o objetivo de investigar a queda de lucro da operação de e-commerce entre os anos de 2023 e 2024.
