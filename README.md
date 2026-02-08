@@ -1,73 +1,74 @@
-📊 Performance Financeira – E-commerce
-Análise Comparativa de Vendas e Lucro (2023–2024)
-📌 Sobre o Projeto
+# 📊 Performance Financeira – E-commerce
+## Análise Comparativa de Vendas e Lucro (2023–2024)
 
-Este projeto apresenta a construção de um dashboard analítico no Power BI com o objetivo de investigar a queda de lucro da operação de e-commerce entre os anos de 2023 e 2024.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Análise_de_Dados-🔍-blue)
 
-A análise foi estruturada para transformar dados brutos em insights estratégicos, utilizando técnicas de modelagem, análise exploratória e storytelling de dados.
+## 📌 Sobre o Projeto
+Este projeto consiste na construção de um dashboard analítico focado em investigar a **redução de lucratividade** de uma operação de e-commerce entre os anos de 2023 e 2024. 
 
-🎯 Problema de Negócio
+A análise transforma dados brutos em insights estratégicos, utilizando modelagem dimensional, análise exploratória e técnicas de *storytelling* para facilitar a tomada de decisão gerencial.
 
-Foi identificada uma redução no lucro da empresa entre 2023 e 2024.
+---
 
-Este projeto busca responder:
+## 🎯 Problema de Negócio
+Identificamos uma queda no lucro global da empresa no comparativo anual. O objetivo deste projeto é responder:
 
-Quando ocorreu a maior queda?
+* **Quando** ocorreu a maior queda?
+* **Quais regiões** foram mais impactadas negativamente?
+* **Quais produtos** contribuíram significativamente para essa retração?
+* A queda foi causada por **volume de vendas, margem ou sazonalidade**?
 
-Quais regiões foram mais impactadas?
+---
 
-Quais produtos contribuíram significativamente para essa retração?
+## 🛠 Ferramentas e Tecnologias
+* **MySQL:** Estruturação, limpeza e consolidação da base de dados.
+* **Power BI:** Modelagem de dados e criação de visualizações interativas.
+* **Power Query (M):** ETL (Extração, Transformação e Carga) e tipagem de dados.
+* **DAX:** Criação de medidas complexas, cálculos de inteligência de tempo e métricas comparativas.
 
-A queda foi causada por volume, margem ou sazonalidade?
+---
 
-🛠 Ferramentas Utilizadas
+## 📊 Métricas e KPIs Desenvolvidos
+As principais métricas criadas para sustentar a análise foram:
 
-MySQL – Estruturação e consolidação da base de dados
+1.  **Receita Total por Ano:** Performance bruta de vendas.
+2.  **Lucro Total por Ano:** Resultado líquido após custos.
+3.  **Evolução Mensal do Lucro:** Identificação de tendências temporais.
+4.  **Lucro por Região:** Comparativo geográfico entre 2023 e 2024.
+5.  **Variação % de Lucro por Produto:** Foco no fechamento (Dez/24 vs Dez/23).
 
-Power BI – Modelagem e construção do dashboard
+---
 
-Power Query – Tratamento e tipagem de dados
+## 🔍 Principais Insights
+* **Sazonalidade Crítica:** A queda de lucro em 2024 concentrou-se drasticamente no **último trimestre**.
+* **Impacto Regional:** As regiões **South (Sul)** e **North (Norte)** registraram as maiores retrações de margem.
+* **Performance de Produto:** As categorias **Tablet** e **Mouse** foram as principais detratoras do lucro no mês de dezembro.
+* **Diagnóstico:** A análise sugere um impacto sazonal atípico somado a uma perda de performance em categorias de hardware específicas.
 
-DAX – Criação de métricas e cálculos comparativos
+---
 
-CSV – Exportação da base final
+## 📈 Estrutura do Dashboard
+O dashboard foi organizado seguindo a lógica **"O que → Quando → Onde → Por quê"**:
 
-📊 Métricas Desenvolvidas
+1.  **Camada Executiva (KPIs):** Visão macro de Receita e Lucro.
+2.  **Camada Temporal:** Evolução mensal para identificar o ponto de inflexão.
+3.  **Camada Geográfica:** Mapas e comparativos regionais.
+4.  **Camada de Produto:** Detalhamento (Top 5) dos produtos com maior queda.
 
-Receita Total por Ano
+---
 
-Lucro Total por Ano
+## 📷 Preview do Dashboard
+*(Substitua o link abaixo pela imagem do seu dashboard ou GIF de demonstração)*
+![Preview do Dashboard](https://github.com/seu-usuario/seu-repositorio/blob/main/caminho-da-sua-imagem.png)
 
-Evolução Mensal do Lucro
+---
 
-Lucro por Região (Comparativo 2023 vs 2024)
+## 📁 Como visualizar
+1.  Faça o download do arquivo `.pbix` presente neste repositório.
+2.  Certifique-se de ter o **Power BI Desktop** instalado.
+3.  As consultas SQL utilizadas para o tratamento inicial estão na pasta `/sql`.
 
-Variação Percentual de Lucro por Produto (Dez/24 vs Dez/23)
-
-🔍 Principais Insights
-
-O lucro apresentou queda em 2024, concentrada principalmente no último trimestre.
-
-As regiões South e North registraram maior retração.
-
-As categorias Tablet e Mouse foram as principais responsáveis pela queda percentual de lucro em dezembro.
-
-A análise indica possível impacto sazonal aliado à redução de desempenho em categorias específicas.
-
-📈 Estrutura do Dashboard
-
-O dashboard foi organizado em quatro camadas analíticas:
-
-KPIs Executivos – Receita e Lucro por Ano
-
-Análise Temporal – Evolução mensal do lucro
-
-Análise Geográfica – Comparativo por região
-
-Análise por Produto – Top 5 produtos com maior queda
-
-Essa estrutura permite responder:
-
-O que aconteceu → Quando → Onde → Por quê
-
-📷 Preview do Dashboard
+---
+**Desenvolvido por [Seu Nome]** *Conecte-se comigo no [LinkedIn](seu-link-aqui)*
