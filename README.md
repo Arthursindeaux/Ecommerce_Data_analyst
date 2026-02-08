@@ -26,8 +26,6 @@ Identificamos uma queda no lucro global da empresa no comparativo anual. O objet
 * **MySQL:** Estruturação, limpeza e consolidação da base de dados.
 * **Power BI:** Modelagem de dados e criação de visualizações interativas.
 * **Power Query (M):** ETL (Extração, Transformação e Carga) e tipagem de dados.
-* **DAX:** Criação de medidas complexas, cálculos de inteligência de tempo e métricas comparativas.
-
 ---
 
 ## 📊 Métricas e KPIs Desenvolvidos
@@ -64,11 +62,3 @@ O dashboard foi organizado seguindo a lógica **"O que → Quando → Onde → P
 ![Preview do Dashboard](https://github.com/seu-usuario/seu-repositorio/blob/main/caminho-da-sua-imagem.png)
 
 ---
-
-## 📁 Como visualizar
-1.  Faça o download do arquivo `.pbix` presente neste repositório.
-2.  Certifique-se de ter o **Power BI Desktop** instalado.
-3.  As consultas SQL utilizadas para o tratamento inicial estão na pasta `/sql`.
-
----
-**Desenvolvido por [Seu Nome]** *Conecte-se comigo no [LinkedIn](seu-link-aqui)*
