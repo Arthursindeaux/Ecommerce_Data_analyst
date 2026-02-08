@@ -62,6 +62,6 @@ Os dados utilizados neste projeto foram extraídos do dataset **[E-Commerce Sale
 
 ## 📷 Preview do Dashboard
 *(Substitua o link abaixo pela imagem do seu dashboard ou GIF de demonstração)*
-![Preview do Dashboard](https://github.com/seu-usuario/seu-repositorio/blob/main/caminho-da-sua-imagem.png)
+![Preview do Dashboard](<img width="1308" height="726" alt="Image" src="https://github.com/user-attachments/assets/afac3155-0ee9-492a-857b-28817454aa0b" />)
 
 ---
