@@ -62,3 +62,6 @@ Os dados utilizados neste projeto foram extraídos do dataset **[E-Commerce Sale
 
 ## 📷 Preview do Dashboard
 <img width="1308" height="726" alt="Image" src="https://github.com/user-attachments/assets/afac3155-0ee9-492a-857b-28817454aa0b" />
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=at4-jjW2QOY)
+
