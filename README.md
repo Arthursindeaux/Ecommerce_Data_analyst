@@ -57,6 +57,9 @@ O dashboard foi organizado seguindo a lógica **"O que → Quando → Onde → P
 
 ---
 
+## 📂 Fonte de Dados
+Os dados utilizados neste projeto foram extraídos do dataset **[E-Commerce Sales Performance Analysis](https://www.kaggle.com/datasets)** disponível no **Kaggle**. A base contém registros detalhados de transações, permitindo uma análise granular por tempo, região e categoria de produto.
+
 ## 📷 Preview do Dashboard
 *(Substitua o link abaixo pela imagem do seu dashboard ou GIF de demonstração)*
 ![Preview do Dashboard](https://github.com/seu-usuario/seu-repositorio/blob/main/caminho-da-sua-imagem.png)
