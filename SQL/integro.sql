@@ -1,3 +1,5 @@
+-- Esse projeto foi feito no MySQL, código no vs code apenas por uma questão visual no projeto
+
 CREATE DATABASE ecommerce;
 USE ecommerce;
 
@@ -182,3 +184,5 @@ WHERE LEFT(order_date,7) IN ('2024-12','2023-12')
   AND product_name = 'mouse'
 GROUP BY LEFT(order_date,7), region, product_name
 ORDER BY lucro_total DESC;
+
+
